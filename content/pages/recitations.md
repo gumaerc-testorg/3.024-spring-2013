@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Recitations
+ocw_type: CourseSection
 title: Recitations
 uid: 4944bd9d-c145-19b4-4f0a-988b23c4ad3b
 ---
