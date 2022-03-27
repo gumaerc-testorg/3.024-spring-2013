@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: f72b4413-96ab-aaff-a22c-899e90f78419
 resourcetype: Document
 title: Linear algebra review
 uid: c692dab2-3a00-cbb7-c4c6-c675ee6f3f8d

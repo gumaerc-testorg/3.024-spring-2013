@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: f72b4413-96ab-aaff-a22c-899e90f78419
 resourcetype: Document
 title: Midterm review
 uid: aa10c547-6fa9-1ac4-98a0-47243091633f

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: f72b4413-96ab-aaff-a22c-899e90f78419
 resourcetype: Document
 title: Final review
 uid: d0a720f7-231f-5197-5cd1-ae570da53189
