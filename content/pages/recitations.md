@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the schedule of recitation topics for the course
+  along with recitation notes from a prior year.
+learning_resource_types:
+- Recitations
+ocw_type: CourseSection
 title: Recitations
 uid: 4944bd9d-c145-19b4-4f0a-988b23c4ad3b
 ---
@@ -38,7 +43,7 @@ Eigenvalue / eigenvector problems
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Recitation 1 (PDF)]({{< baseurl >}}/resources/mit3_024s13_2012rec1)
+{{% resource_link ea616bc5-12b7-ace4-4651-f204a53dd032 "Recitation 1 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -58,7 +63,7 @@ Wave-particle duality
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Recitation 2 (PDF)]({{< baseurl >}}/resources/mit3_024s13_2012rec2)
+{{% resource_link 910863ed-c673-c39f-28e1-71489230b78c "Recitation 2 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,7 +81,7 @@ Piecewise function / continuity review
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Recitation 3 (PDF)]({{< baseurl >}}/resources/mit3_024s13_2012rec3)
+{{% resource_link cb03a234-0edd-e0ea-63d9-dedbf13206de "Recitation 3 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -94,7 +99,7 @@ Periodic potentials preview
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Recitation 4 (PDF)]({{< baseurl >}}/resources/mit3_024s13_2012rec4)
+{{% resource_link 2bf36f83-1273-0558-99c3-19cc0f71c313 "Recitation 4 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -112,7 +117,7 @@ Periodic potentials
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Recitation 5 (PDF)]({{< baseurl >}}/resources/mit3_024s13_2012rec5)
+{{% resource_link 52c87930-1488-3c05-7665-bbfb69f94001 "Recitation 5 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -130,7 +135,7 @@ Band diagrams
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Recitation 6 (PDF)]({{< baseurl >}}/resources/mit3_024s13_2012rec6)
+{{% resource_link 68274f89-0cb5-a98d-6b68-f8959b02869a "Recitation 6 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -142,7 +147,7 @@ Rec 7
 Exam major concepts review
 {{< tdclose >}}
 {{< tdopen >}}
-[Recitation 7 (PDF)]({{< baseurl >}}/resources/mit3_024s13_2012rec7)
+{{% resource_link 44f62a21-2661-d045-fab2-60e1cb5d6139 "Recitation 7 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -164,7 +169,7 @@ Fermi-Dirac distribution
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Recitation 8 (PDF)]({{< baseurl >}}/resources/mit3_024s13_2012rec8)
+{{% resource_link 2db1aac5-612c-dc23-9b63-e46369a76c2c "Recitation 8 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -184,7 +189,7 @@ Engineering conductivity
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Recitation 9 (PDF)]({{< baseurl >}}/resources/mit3_024s13_2012rec9)
+{{% resource_link f1f7bc98-e3e5-acc7-dd29-c2b78d4fed05 "Recitation 9 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -196,7 +201,7 @@ Rec 10
 P-N junctions
 {{< tdclose >}}
 {{< tdopen >}}
-[Recitation 10 (PDF)]({{< baseurl >}}/resources/mit3_024s13_2012rec10)
+{{% resource_link ecee6d8b-7be7-20cc-7fef-2de49770e999 "Recitation 10 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -216,7 +221,7 @@ Light-emitting diodes (LEDs)
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Recitation 11 (PDF)]({{< baseurl >}}/resources/mit3_024s13_2012rec11)
+{{% resource_link 1bc7f658-21cc-fa39-672b-0e3de890cc4a "Recitation 11 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -236,7 +241,7 @@ Optical interfaces
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Recitation 12 (PDF)]({{< baseurl >}}/resources/mit3_024s13_2012rec12)
+{{% resource_link c75b002e-5785-2143-59d6-17c61b5de149 "Recitation 12 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -254,7 +259,7 @@ Layered optical materials
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Recitation 13 (PDF)]({{< baseurl >}}/resources/mit3_024s13_2012rec13)
+{{% resource_link ecd162d4-d5f5-5c9f-cadc-3cae638c7df8 "Recitation 13 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -266,7 +271,7 @@ Rec 14
 Origins of magnetism in materials
 {{< tdclose >}}
 {{< tdopen >}}
-[Recitation 14 (PDF)]({{< baseurl >}}/resources/mit3_024s13_2012rec14)
+{{% resource_link 087338b6-c37e-bc31-9732-99023c855918 "Recitation 14 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -288,7 +293,7 @@ Final exam toolbox review:
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Recitation 15 (PDF)]({{< baseurl >}}/resources/mit3_024s13_2012rec15)
+{{% resource_link dad95358-be47-ab94-94df-f524a1310ddd "Recitation 15 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
