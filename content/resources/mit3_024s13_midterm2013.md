@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding midterm 2013.
-file: /courses/3-024-electronic-optical-and-magnetic-properties-of-materials-spring-2013/481079ca9df0755117d26f85b08599d6_MIT3_024S13_midterm2013.pdf
+file: /ol-ocw-studio-app/courses/3-024-electronic-optical-and-magnetic-properties-of-materials-spring-2013/481079ca9df0755117d26f85b08599d6_MIT3_024S13_midterm2013.pdf
 file_size: 768251
 file_type: application/pdf
 learning_resource_types:
