@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding final review.
-file: /courses/3-024-electronic-optical-and-magnetic-properties-of-materials-spring-2013/d0a720f7231f51975cd1ae570da53189_MIT3_024S13_study5.pdf
+file: /ol-ocw-studio-app/courses/3-024-electronic-optical-and-magnetic-properties-of-materials-spring-2013/d0a720f7231f51975cd1ae570da53189_MIT3_024S13_study5.pdf
 file_size: 571024
 file_type: application/pdf
 learning_resource_types: []
