@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding linear algebra review.
-file: /ol-ocw-studio-app/courses/3-024-electronic-optical-and-magnetic-properties-of-materials-spring-2013/c692dab23a00cbb7c4c6c675ee6f3f8d_MIT3_024S13_study1.pdf
+file: /courses/3-024-electronic-optical-and-magnetic-properties-of-materials-spring-2013/c692dab23a00cbb7c4c6c675ee6f3f8d_MIT3_024S13_study1.pdf
 file_size: 787431
 file_type: application/pdf
 learning_resource_types: []
